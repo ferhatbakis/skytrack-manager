@@ -18,4 +18,4 @@ Framework: .NET / WPF (Windows Presentation Foundation)
 
 Database: SQL Server / SQLite
 
-Architecture: MVVM (Model-View-ViewModel)..
+Architecture: MVVM (Model-View-ViewModel)
